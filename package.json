@@ -1,0 +1,16 @@
+{
+  "name": "jest1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "web3ten0",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^27.5.1",
+    "jest-puppeteer": "^6.1.0",
+    "puppeteer": "^13.6.0"
+  }
+}
